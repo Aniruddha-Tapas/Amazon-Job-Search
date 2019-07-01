@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+chromedriver/chromedriver
+*.pyc
+*#*
+*/__pycache__/*
+*/*/__pycache__/*
+*.py~
+*.eggs/
+*.pytest_cache*
+*.DS_Store*
+/.idea
